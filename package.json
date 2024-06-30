@@ -1,0 +1,20 @@
+{
+  "name": "@amjad_bhutto/university-management",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amjad_bhutto/university-management": "^1.0.1"
+  }
+}
